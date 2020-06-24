@@ -160,7 +160,7 @@ GEM
     queue_classic (0.3.2)
       json
       pg (>= 0.10.1)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-protection (2.0.8.1)
       rack
     rack-test (1.1.0)
